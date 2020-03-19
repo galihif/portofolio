@@ -22,3 +22,13 @@
 .card-group{
 	margin-top: 40px;
 }
+
+#kart img {
+	width: 15rem;
+	margin-left: 95px;
+}
+
+#kart div a{
+	text-decoration: none;
+	color: black;
+}
